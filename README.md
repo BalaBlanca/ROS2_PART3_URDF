@@ -1,2 +1,3 @@
 En el carpeta ros_3_rudf.zip se encuentra el directorio completo del workspace. Todas las carpetas con los archivos entregables. En la carpeta launch/ podran encontrar los archivos .py para desplegar el robot en RVIZ Y GAZEBO. Dentro de la carpeta src/description/  podran encontrar los archivos URDF Y XACRO que contienen la construccion del robot. En la carpeta /rviz/ se encuentra la configuracion para observar el robot en RVIZ. y en la carpeta world/ se encuentra el archivo cargado para modelar el mundo en Gazebo. 
 
+En la carpeta (turtle_ros_3.zip) se encuentra los codigos utilizados para la entrega de los primeros tres puntos, donde se utilizo turtlesim. 
